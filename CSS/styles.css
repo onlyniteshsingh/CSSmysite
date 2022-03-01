@@ -1,0 +1,133 @@
+.top-container {
+  background-color: #E8F6EF;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Smooch Sans', sans-serif;
+  font-size: 3rem;
+  color: #66BFBF;
+  font-weight: bolder;
+  margin-top: 50px;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 2rem;
+  font-family: 'Smooch Sans', sans-serif;
+}
+
+.middle-container{
+}
+
+.bottom-container{
+  margin:  70px 0 0 0;
+  background-color: #66BFBF;
+  padding: 50px 0 100px 0;
+  font-size: 0.7rem;
+  color: white;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.programmer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chess-player {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro-dis{
+  width: 30%;
+  margin: auto auto 70px auto;
+  line-height: 2;
+}
+
+.profile-pic {
+  width: 20%;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+}
+
+#programmer-dis{
+  margin-top: 0;
+}
+
+#programmer-head{
+  margin-bottom:  15px;
+}
+
+hr{
+  border-style: none none dotted none;
+  height: 0;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+
+}
+
+.last-lines{
+      margin-bottom: 10px;
+}
+
+.btn{
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Smooch Sans', sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 30px;
+}
+
+#copyright{
+  margin: 40px 0 0 0;
+
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Smooch Sans', sans-serif;
+  margin: 5px 20px 50px 20px;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
